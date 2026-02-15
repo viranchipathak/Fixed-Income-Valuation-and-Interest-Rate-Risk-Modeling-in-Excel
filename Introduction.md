@@ -1,0 +1,6 @@
+# Fixed-Income-Valuation-and-Interest-Rate-Risk-Modeling-in-Excel
+Excel-based fixed income financial model covering bond valuation, yields, annuities, and duration analysis to evaluate pricing accuracy, interest rate sensitivity, and portfolio risk in fixed income securities.
+
+This project develops a structured Excel-based financial modeling framework to analyse the valuation and risk characteristics of fixed income securities. It applies fundamental fixed income principles—including time value of money, discounted cash-flow valuation, annuity pricing, bond pricing, yield measurement, and duration-based sensitivity analysis—to evaluate how bond prices and investment value respond to changes in interest rates and cash-flow timing.
+
+The model incorporates detailed cash-flow schedules, present value computations, yield-to-maturity estimation, and duration metrics to assess price volatility, reinvestment risk, and overall portfolio exposure to interest rate movements. By translating theoretical fixed income concepts into a transparent and calculation-driven Excel structure, the project demonstrates practical financial modeling skills relevant to investment analysis, treasury functions, and risk management in fixed income markets.
